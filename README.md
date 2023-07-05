@@ -1,6 +1,6 @@
 - 👋 Hi, We are @SoulverseHub
 - 👀 We are interested in building SSID solution with biometric-first approach
-- 🌱 We are currently learning building the POC
+- 🌱 We are currently building the POC
 - 💞️ We looking to collaborate on computer vision, with data scientist, SSID experts, anyone interested in UI/UX and/or want to lead community learning. 
 - 📫 You can reach us on Discord on the Soulverse channel. 
 
